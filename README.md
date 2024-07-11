@@ -1,2 +1,2 @@
-# WRD_Rockstarz
+# wrdrockstars
 IIRS WRD Lab code repository
